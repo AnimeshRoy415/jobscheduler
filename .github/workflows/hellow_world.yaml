@@ -7,7 +7,7 @@ on:
       - mySecondBranch
 
 jobs:
-  hello world job:
+  hello_world_job:
     runs-on: ubuntu_leatest
     steps:
       - name: "Printing the hellow world text from github actions."
